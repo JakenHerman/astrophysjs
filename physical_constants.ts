@@ -1,0 +1,1 @@
+export const speed_of_light = 2.99792458e8;
